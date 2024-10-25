@@ -5,5 +5,5 @@
 1. **Modelo Básico 1**: [CNN Simple](https://github.com/Carlos-dev-G/Redes-convolucional-Simples/blob/main/CNN_Simple.ipynb)
    - Usando dataset de TensorFlow.
 
-2. **Modelo Básico 2**: [CNN Simple](https://github.com/Carlos-dev-G/Redes-convolucional-Simples/blob/main/CNN_data_set_kaggle.ipynb)
+2. **Modelo Básico 2**: [CNN Simple K](https://github.com/Carlos-dev-G/Redes-convolucional-Simples/blob/main/CNN_data_set_kaggle.ipynb)
    - Usando dataset de [Kaggle](https://www.kaggle.com/datasets/kavyasreeb/hair-type-dataset).
